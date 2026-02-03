@@ -1,0 +1,23 @@
+Part 1: Caesar Cipher (Manual)
+
+Exercise 1.1: Encrypt (Shift Right 5)
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Plaintext:
+MEET ME AT NOON
+Ciphertext:
+RJJY RJ FY STTS
+
+Plaintext:
+SECURITY
+Ciphertext:
+XJHZWNYD
+
+Exercise Part 1.2
+Decrypt (sift left 7)
+Ciphertext:
+OLSSV
+
+Plaintext:
+Hello
